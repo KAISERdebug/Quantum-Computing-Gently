@@ -2,6 +2,14 @@
 
 **A free, open textbook on quantum computing for people who have never studied physics or computer science.**
 
+## Upcoming Research
+
+This paper is part of an ongoing independent research initiative focused on DeepTech, quantum computing, and emerging technologies.
+
+Further research papers exploring new concepts, theoretical approaches, and potential applications are coming soon.
+
+Follow this repository to stay updated on future publications and research developments.
+
 by Kaiser · written in January 2026 · Version 1.0
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
